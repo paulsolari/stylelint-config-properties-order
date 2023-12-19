@@ -1,0 +1,18 @@
+{
+  "name": "@paulsolari/stylelint-config-properties-order",
+  "version": "1.0.2",
+  "author": "paulsolari",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulsolari/stylelint-config-properties-order.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "stylelint-order": "^6.0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/paulsolari/stylelint-config-properties-order/issues"
+  },
+  "homepage": "https://github.com/paulsolari/stylelint-config-properties-order#readme"
+}
